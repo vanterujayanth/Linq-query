@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\LINQueryDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B39960F1-7AD2-4D7A-9B51-2568B7C87303}|LINQueryDemo\\LINQueryDemo.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\linquerydemo\\linquerydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39960F1-7AD2-4D7A-9B51-2568B7C87303}|LINQueryDemo\\LINQueryDemo.csproj|solutionrelative:linquerydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39960F1-7AD2-4D7A-9B51-2568B7C87303}|LINQueryDemo\\LINQueryDemo.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\linquerydemo\\linquerydemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39960F1-7AD2-4D7A-9B51-2568B7C87303}|LINQueryDemo\\LINQueryDemo.csproj|solutionrelative:linquerydemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39960F1-7AD2-4D7A-9B51-2568B7C87303}|LINQueryDemo\\LINQueryDemo.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\linquerydemo\\linquerydemo\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39960F1-7AD2-4D7A-9B51-2568B7C87303}|LINQueryDemo\\LINQueryDemo.csproj|solutionrelative:linquerydemo\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39960F1-7AD2-4D7A-9B51-2568B7C87303}|LINQueryDemo\\LINQueryDemo.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\linquerydemo\\linquerydemo\\liquerydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39960F1-7AD2-4D7A-9B51-2568B7C87303}|LINQueryDemo\\LINQueryDemo.csproj|solutionrelative:linquerydemo\\liquerydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\LINQueryDemo\\LINQueryDemo\\EmployeeOperations.cs",
+              "RelativeDocumentMoniker": "LINQueryDemo\\EmployeeOperations.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\LINQueryDemo\\LINQueryDemo\\EmployeeOperations.cs",
+              "RelativeToolTip": "LINQueryDemo\\EmployeeOperations.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:30:19.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\LINQueryDemo\\LINQueryDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQueryDemo\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\LINQueryDemo\\LINQueryDemo\\Employee.cs",
+              "RelativeToolTip": "LINQueryDemo\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:25:59.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LiqueryDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\LINQueryDemo\\LINQueryDemo\\LiqueryDemo.cs",
+              "RelativeDocumentMoniker": "LINQueryDemo\\LiqueryDemo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\LINQueryDemo\\LINQueryDemo\\LiqueryDemo.cs",
+              "RelativeToolTip": "LINQueryDemo\\LiqueryDemo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:05:04.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\LINQueryDemo\\LINQueryDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LINQueryDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\LINQueryDemo\\LINQueryDemo\\Program.cs",
+              "RelativeToolTip": "LINQueryDemo\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:03:53.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\bin\Debug\net8.0\LINQueryDemo.exe
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\bin\Debug\net8.0\LINQueryDemo.deps.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\bin\Debug\net8.0\LINQueryDemo.runtimeconfig.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\bin\Debug\net8.0\LINQueryDemo.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\bin\Debug\net8.0\LINQueryDemo.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\obj\Debug\net8.0\LINQueryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\obj\Debug\net8.0\LINQueryDemo.AssemblyInfoInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\obj\Debug\net8.0\LINQueryDemo.AssemblyInfo.cs
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\obj\Debug\net8.0\LINQueryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\obj\Debug\net8.0\LINQueryDemo.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\obj\Debug\net8.0\refint\LINQueryDemo.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\obj\Debug\net8.0\LINQueryDemo.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\obj\Debug\net8.0\LINQueryDemo.genruntimeconfig.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\LINQueryDemo\LINQueryDemo\obj\Debug\net8.0\ref\LINQueryDemo.dll
